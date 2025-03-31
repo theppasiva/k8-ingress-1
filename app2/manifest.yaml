@@ -50,7 +50,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: "app2.parijathapractice.online"
+  - host: "app2.sivapractice.online"
     http:
       paths:
       - pathType: Prefix
